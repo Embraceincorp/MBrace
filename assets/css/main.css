@@ -1,0 +1,26 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@font-face {
+  font-family: 'Pacifico';
+  src: url("../fonts/Pacifico-Regular.ttf") format("truetype");
+}
+
+h1 {
+  font-family: 'Chaparral Pro', 'Montserrat';
+  text-align: center;
+  font-weight: 100;
+  font-size: 8vh;
+}
+
+
+.canvas-body {
+  display: inline-block;
+  position: fixed;
+  padding-top: 10vh;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  color: white;
+  overflow: scroll;
+  overflow-x: hidden;
+}
