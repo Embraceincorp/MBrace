@@ -67,7 +67,6 @@ nav ul{
     text-transform: none;
     font-size: 80px;
     text-shadow: 1.5px 1.5px #24324a;
-    padding-bottom: 15px;
 }
 
 .topic {
@@ -151,12 +150,6 @@ section#menu {
     .content,
     .img_container {
         width: 100%;
-    }
-    section#about {
-        margin-bottom: 40px;
-    }
-    section#menu {
-        margin-top: 40px;
     }
 }
 
